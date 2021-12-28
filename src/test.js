@@ -7,6 +7,8 @@ const styles= {
 
 }
 
+// comment from branch 2
+
 const custom = 'hello'
 
 const hi = [styles['width'],custom].join(' ');
